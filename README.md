@@ -1,6 +1,6 @@
 # Residential Flexibility Addon
 
-This repository collects the first version of the BALMOREL model add-on developed for 
+This repository collects a first version of the BALMOREL model add-on developed for including residential demand side flexibilty
 
 # BALMOREL community source and home page:
 
@@ -17,7 +17,7 @@ Pietro Nonis
 Francesco Gaballo
 
 Thesis project: 
-Investigation of residential electricityconsumption profiles with a focus on theenergy system flexibility potential
+Investigation of residential electricity consumption profiles with a focus on theenergy system flexibility potential
 
 From Denmark Technical University
 Sustainable Energy
