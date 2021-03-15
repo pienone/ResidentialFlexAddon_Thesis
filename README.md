@@ -1,14 +1,14 @@
-# ResidentialFlexAddon_Thesis
+# Residential Flexibility Addon
 
 This repository collects the first version of the BALMOREL model add-on developed for 
 
-#BALMOREL community source and home page:
+# BALMOREL community source and home page:
 
 https://github.com/balmorelcommunity/Balmorel
 
 http://www.balmorel.com/index.php/contact
 
-#Implementation
+# Implementation
 The add-on has been implemented as a stand alone optimization algorithm in Julia and Pyhton languages. The scope of the first is to determine the optimal load scheduling of flexible technologies (EVs and HPs). The flexible demand profiles determined by Julia linear programming model, scaled for scenario stocks of vehicles and heating plants, and aggregated included in Balmorel add-on inputs. These time series constitute a exogenous parameter named DERESEV HP.
 
 
